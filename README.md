@@ -46,5 +46,5 @@ Gain proficiency in PyTorch tensor operations, including:
 - [Tensor Fundamentals in TensorFlow (for comparison)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb)
 
 ## **Why This Matters?**
-Tensors form the foundation of modern deep learning frameworks. Whether you're building neural networks, implementing optimization algorithms, or working on distributed ML models, **deep expertise in tensor operations** will make you a better machine learning practitioner. **Practice these notebooks seriously**, as they will enhance your understanding and efficiency in deep learning workflows.
+Tensors form the foundation of modern deep learning frameworks. Whether you're building neural networks, implementing optimization algorithms, or working on distributed ML models, **deep expertise in tensor operations** will make you a better machine learning practitioner.
 
