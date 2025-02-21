@@ -18,8 +18,8 @@ Explore various tensor operations in TensorFlow 2.0, including:
 - **Advanced einsum operations** for efficient computation.
 - Using TensorFlow functions for optimized tensor computations.
 
-📌 **Colab Notebook:** [Tensor Operations in TensorFlow](LINK_HERE)
-📌 **Youtube:** [Video on Tensor Operations in TensorFlow](LINK_HERE)
+📌 **Colab Notebook:** [Tensor Operations in TensorFlow](https://colab.research.google.com/drive/1YF--50Y06hATrJgjKR8uBZ5YbbX1aVR3?usp=sharing)
+📌 **Youtube:** [Video on Tensor Operations in TensorFlow](https://youtu.be/gifL4gElgPA)
 
 #### **Resources for TensorFlow Tensors:**
 - [TensorFlow Official Guide](https://www.tensorflow.org/guide/tensor)
