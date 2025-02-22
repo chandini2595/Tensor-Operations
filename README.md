@@ -36,7 +36,7 @@ Gain proficiency in PyTorch tensor operations, including:
 - Applying `einops` for tensor transformations and manipulations.
 
 📌 **Colab Notebook:** [Tensor Operations in PyTorch](https://colab.research.google.com/drive/1VaTlw-y6qF4w_u0nNJxMNlq26dLFfWla?usp=sharing)
-📌 **Youtube:** [Video on Tensor Operations in PyTorch](LINK_HERE)
+📌 **Youtube:** [Video on Tensor Operations in PyTorch](https://youtu.be/8ILIBvmrre8)
 
 
 #### **Resources for PyTorch Tensors:**
