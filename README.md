@@ -35,7 +35,7 @@ Gain proficiency in PyTorch tensor operations, including:
 - **Using einsum in PyTorch** for elegant tensor computations.
 - Applying `einops` for tensor transformations and manipulations.
 
-📌 **Colab Notebook:** [Tensor Operations in PyTorch](LINK_HERE)
+📌 **Colab Notebook:** [Tensor Operations in PyTorch](https://colab.research.google.com/drive/1VaTlw-y6qF4w_u0nNJxMNlq26dLFfWla?usp=sharing)
 📌 **Youtube:** [Video on Tensor Operations in PyTorch](LINK_HERE)
 
 
